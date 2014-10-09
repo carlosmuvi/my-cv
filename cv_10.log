@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.9.22)  22 SEP 2014 12:51
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.9.22)  29 SEP 2014 11:12
 entering extended mode
 **cv_10.tex
 (C:\Users\kalos_000\Desktop\CV\cv_10.tex
@@ -1474,33 +1474,20 @@ Requested font "Helvetica Neue Light/BI/ICU" at 8.0pt
 Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;color=999999FF ;" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
-
- []
-
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 Requested font "Helvetica Neue Light/I/ICU:script=latn;language=DFLT;mapping=te
 x-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/ICU" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 1389) in paragraph at lines 96--96
-\EU1/HelveticaNeueLight(0)/m/n/10 Developed Native Android Applications for mai
-n phone carriers (Orange,
+Underfull \hbox (badness 10000) in paragraph at lines 58--76
+
  []
 
 Requested font "Helvetica Neue Light/ICU" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 4927) in paragraph at lines 110--110
+Underfull \hbox (badness 4927) in paragraph at lines 97--97
 []\EU1/HelveticaNeueLight(0)/m/n/10 Corrective Management (Cordova Phonegap + H
 TML + CSS +
  []
@@ -1508,14 +1495,22 @@ TML + CSS +
 Requested font "Helvetica Neue Light/ICU" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--129
+Underfull \hbox (badness 1389) in paragraph at lines 112--112
+\EU1/HelveticaNeueLight(0)/m/n/10 Developed Native Android Applications for mai
+n phone carriers (Orange,
+ []
+
+Requested font "Helvetica Neue Light/ICU" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Light.otf
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--131
 
  []
 
 Requested font "Helvetica Neue Light/ICU" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
+Underfull \hbox (badness 10000) in paragraph at lines 139--148
 
  []
 
@@ -1526,11 +1521,11 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
  (C:\Users\kalos_000\Desktop\CV\cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 161.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
