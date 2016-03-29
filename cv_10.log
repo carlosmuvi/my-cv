@@ -1,33 +1,24 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2015.2.18)  25 MAR 2015 19:46
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.3.28)  29 MAR 2016 22:23
 entering extended mode
-**cv_10.tex
-(C:\Users\Carlos\Develop\my-cv\cv_10.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(C:\Users\Carlos\Develop\my-cv\friggeri-cv.cls
+**C:/Users/kalos/Desktop/my-cv/cv_10.tex
+(C:/Users/kalos/Desktop/my-cv/cv_10.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+(friggeri-cv.cls
 Document Class: friggeri-cv 2012/04/30 CV class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -41,9 +32,15 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 Package xcolor Info: Driver file: xetex.def on input line 225.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\xelatex\xetex-def\xetex.def"
-File: xetex.def 2014/07/25 v4.03 LaTeX color/graphics driver for XeTeX (RRM/JK)
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+))
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
@@ -54,45 +51,40 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty"
-Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2014/11/25 v5471 L3 programming layer (loader) 
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2014/11/25 v5471 L3 programming layer (code) 
-L3 Module: l3bootstrap 2014/08/23 v5354 L3 Bootstrap code
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count88
-)
-L3 Module: l3names 2014/08/22 v5343 L3 Namespace for primitives
-L3 Module: l3basics 2014/08/24 v5364 L3 Basic definitions
-L3 Module: l3expan 2014/08/22 v5349 L3 Argument expansion
-L3 Module: l3tl 2014/11/19 v5460 L3 Token lists
-L3 Module: l3str 2014/08/24 v5368 L3 Strings
-L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
-L3 Module: l3int 2014/09/14 v5421 L3 Integers
-\c_max_int=\count89
-\l_tmpa_int=\count90
-\l_tmpb_int=\count91
-\g_tmpa_int=\count92
-\g_tmpb_int=\count93
-L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
-L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
-\g__prg_map_int=\count94
-L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
-L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
-L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
-L3 Module: l3msg 2014/08/24 v5358 L3 Messages
-L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
-\l_iow_line_count_int=\count95
-\l__iow_target_count_int=\count96
-\l__iow_current_line_int=\count97
-\l__iow_current_word_int=\count98
-\l__iow_current_indentation_int=\count99
-L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count87
+\l_tmpa_int=\count88
+\l_tmpb_int=\count89
+\g_tmpa_int=\count90
+\g_tmpb_int=\count91
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count92
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count93
+\l__iow_target_count_int=\count94
+\l__iow_current_line_int=\count95
+\l__iow_current_word_int=\count96
+\l__iow_current_indentation_int=\count97
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -111,26 +103,26 @@ L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-L3 Module: l3keys 2014/08/23 v5354 L3 Key-value interfaces
-\g__keyval_level_int=\count100
-\l_keys_choice_int=\count101
-L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
-\c__fp_leading_shift_int=\count102
-\c__fp_middle_shift_int=\count103
-\c__fp_trailing_shift_int=\count104
-\c__fp_big_leading_shift_int=\count105
-\c__fp_big_middle_shift_int=\count106
-\c__fp_big_trailing_shift_int=\count107
-\c__fp_Bigg_leading_shift_int=\count108
-\c__fp_Bigg_middle_shift_int=\count109
-\c__fp_Bigg_trailing_shift_int=\count110
-L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count98
+\l_keys_choice_int=\count99
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_internal_box=\box31
 \l__coffin_internal_dim=\dimen109
 \l__coffin_offset_x_dim=\dimen110
@@ -151,7 +143,8 @@ L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen117
 \l__coffin_display_y_dim=\dimen118
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
-L3 Module: l3candidates 2014/11/23 v5466 L3 Experimental additions to l3kernel
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen119
 \l__box_bottom_dim=\dimen120
 \l__box_left_dim=\dimen121
@@ -168,53 +161,45 @@ L3 Module: l3candidates 2014/11/23 v5466 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen131
 \l__coffin_scaled_total_height_dim=\dimen132
 \l__coffin_scaled_width_dim=\dimen133
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3unicode-data.def"
-File: l3unicode-data.def 2014/11/23 v5465 L3 Unicode data
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\l3xdvipdfmx.def"
-File: l3xdvidpfmx.def 2014/11/23 v5466 L3 Experimental driver: xdvipdfmx
+File: l3xdvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: xdvipdfmx
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
-Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count111
-\l__xparse_m_args_int=\count112
-\l__xparse_mandatory_args_int=\count113
-\l__xparse_processor_int=\count114
-\l__xparse_v_nesting_int=\count115
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count109
+\l__xparse_m_args_int=\count110
+\l__xparse_mandatory_args_int=\count111
+\l__xparse_processor_int=\count112
+\l__xparse_v_nesting_int=\count113
 )
-\l_fontspec_script_int=\count116
-\l_fontspec_language_int=\count117
-\l_fontspec_strnum_int=\count118
-\l_fontspec_tmpa_dim=\dimen134
-\l_fontspec_tmpb_dim=\dimen135
-\l_fontspec_tmpc_dim=\dimen136
-Variant \tl_gset:cV already defined; not changing it on line 69
+\l_fontspec_script_int=\count114
+\l_fontspec_language_int=\count115
+\l_fontspec_strnum_int=\count116
+\l__fontspec_tmpa_dim=\dimen134
+\l__fontspec_tmpb_dim=\dimen135
+\l__fontspec_tmpc_dim=\dimen136
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fontspec\fontspec-patches.sty"
-Package: fontspec-patches 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLa
+Package: fontspec-patches 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLa
 TeX
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
-Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
-LaTeX Info: Redefining \em on input line 420.
-)
-LaTeX Info: Redefining \em on input line 22.
-LaTeX Info: Redefining \emph on input line 30.
-LaTeX Info: Redefining \- on input line 33.
+LaTeX Info: Redefining \em on input line 49.
+LaTeX Info: Redefining \emph on input line 57.
+LaTeX Info: Redefining \- on input line 60.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 128.
+. Redefining command \oldstylenums with sig. 'm' on line 155.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 132.
+. Defining command \liningnums with sig. 'm' on line 159.
 .................................................
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fontspec\fontspec-xetex.sty"
-Package: fontspec-xetex 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTe
 X
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -223,7 +208,7 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\euenc\eu1enc.def"
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\euenc\eu1lmr.fd"
@@ -258,19 +243,19 @@ Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm/lmsans10-regular
 .otf
 )
-\tipaTiiicode=\count119
+\tipaTiiicode=\count117
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
@@ -278,7 +263,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
+Package graphics Info: Driver file: xetex.def on input line 94.
 )
 \Gin@req@height=\dimen137
 \Gin@req@width=\dimen138
@@ -286,114 +271,117 @@ Package graphics Info: Driver file: xetex.def on input line 91.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}m' on line 41.
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 42.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}m' on line 46.
+. Defining command \fontspec with sig. 'om' on line 44.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}m' on line 51.
+. Defining command \setmainfont with sig. 'om' on line 54.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}m' on line 56.
+. Defining command \setsansfont with sig. 'om' on line 64.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}m' on line 65.
+. Defining command \setmonofont with sig. 'om' on line 74.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}m' on line 69.
+. Defining command \setmathrm with sig. 'om' on line 88.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}m' on line 73.
+. Defining command \setboldmathrm with sig. 'om' on line 96.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}m' on line 77.
+. Defining command \setmathsf with sig. 'om' on line 104.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}m' on line 96.
+. Defining command \setmathtt with sig. 'om' on line 112.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}m' on line 100.
+. Defining command \newfontfamily with sig. 'mom' on line 126.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 'om' on line 108.
+. Defining command \newfontface with sig. 'mom' on line 141.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 144.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 155.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 156.
+. Defining command \addfontfeatures with sig. 'm' on line 210.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 164.
+. Defining command \newfontfeature with sig. 'mm' on line 221.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 172.
+. Defining command \newAATfeature with sig. 'mmmm' on line 229.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 201.
+. Defining command \newopentypefeature with sig. 'mmm' on line 237.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 203.
+. Defining command \aliasfontfeature with sig. 'mm' on line 258.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 208.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 267.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 235.
+. Defining command \newfontscript with sig. 'mm' on line 272.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 256.
+. Defining command \newfontlanguage with sig. 'mm' on line 298.
 .................................................
-Variant \prop_gput:cnV already defined; not changing it on line 582
-Variant \prop_gput:cnx already defined; not changing it on line 583
-\l_fontspec_tmp_int=\count120
-LaTeX Info: Redefining \itshape on input line 2087.
-LaTeX Info: Redefining \slshape on input line 2092.
-LaTeX Info: Redefining \scshape on input line 2097.
-LaTeX Info: Redefining \upshape on input line 2102.
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 318.
+.................................................
+\l__fontspec_tmp_int=\count118
+LaTeX Info: Redefining \itshape on input line 2227.
+LaTeX Info: Redefining \slshape on input line 2232.
+LaTeX Info: Redefining \scshape on input line 2237.
+LaTeX Info: Redefining \upshape on input line 2242.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg")))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\unicode-math\unicode-math.sty"
-Package: unicode-math 2014/06/30 v0.7f Unicode maths in XeLaTeX and LuaLaTeX
+Package: unicode-math 2015/09/24 v0.8c Unicode maths in XeLaTeX and LuaLaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
@@ -402,26 +390,13 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucharcat\ucharcat.sty"
+Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
-Package: l3keys2e 2014/11/25 v5471 LaTeX2e option processing using LaTeX3 keys
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\catchfile.sty"
-Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
-Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
@@ -429,13 +404,13 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\filehook\filehook.sty"
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
-Variant \tl_put_right:cx already defined; not changing it on line 67
-Variant \seq_if_in:NVTF already defined; not changing it on line 68
-\g_um_fam_int=\count121
+\g__um_fam_int=\count119
+\g__um_primekern_muskip=\muskip16
+\l__um_primecount_int=\count120
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \unimathsetup with sig. 'm' on line 156.
+. Defining command \unimathsetup with sig. 'm' on line 168.
 .................................................
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\unicode-math\unicode-math-xetex.s
@@ -443,127 +418,130 @@ ty"
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathfont with sig. 'O{}m' on line 384.
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 165.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addnolimits with sig. 'm' on line 627.
+. Defining command \setoperatorfont with sig. 'm' on line 169.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \removenolimits with sig. 'm' on line 631.
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 278.
 .................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addnolimits with sig. 'm' on line 520.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \removenolimits with sig. 'm' on line 524.
+.................................................
+\g__file_internal_ior=\read1
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\unicode-math\unicode-math-table.t
-ex")
-\g_um_primekern_muskip=\muskip16
-\l_um_primecount_int=\count122
-))
-\g__file_internal_ior=\read1
+ex")))
 Requested font "Helvetica Neue" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue/ICU" at 10.0pt
+Requested font "Helvetica Neue/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue.otf
-\g_fontspec_family_Helvetica Neue_int=\count123
-Requested font "Helvetica Neue/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue/BI/ICU" at 10.0pt
+\g__fontspec_family_HelveticaNeue_int=\count121
+Requested font "Helvetica Neue/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
-Requested font "Helvetica Neue/BI/ICU" at 10.0pt
+Requested font "Helvetica Neue/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
-Requested font "Helvetica Neue UltraLight" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue UltraLight/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-\g_fontspec_family_Helvetica Neue UltraLight_int=\count124
-Requested font "Helvetica Neue UltraLight/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue UltraLight/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue UltraLight/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Medium.otf
-Requested font "Helvetica Neue UltraLight/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Medium.otf
-Requested font "Helvetica Neue UltraLight/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue UltraLight/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue UltraLight/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue UltraLight/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue UltraLight/BI/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue UltraLight/BI/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
 Requested font "Helvetica Neue Condensed Bold" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/ICU" at 10.0pt
+Requested font "Helvetica Neue Condensed Bold/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-\g_fontspec_family_Helvetica Neue Condensed Bold_int=\count125
-Requested font "Helvetica Neue Condensed Bold/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBlack.otf
-Requested font "Helvetica Neue Condensed Bold/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBlack.otf
-Requested font "Helvetica Neue Condensed Bold/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
-Requested font "Helvetica Neue Condensed Bold/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
-Requested font "Helvetica Neue Condensed Bold/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/BI/ICU" at 10.0pt
+\g__fontspec_family_HelveticaNeueCondensedBold_int=\count122
+Requested font "Helvetica Neue Condensed Bold/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue Condensed Bold/BI/ICU" at 10.0pt
+Requested font "Helvetica Neue Condensed Bold/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-CondensedBlack.otf
+Requested font "Helvetica Neue Condensed Bold/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
+Requested font "Helvetica Neue Condensed Bold/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-CondensedBlack.otf
+Requested font "Helvetica Neue Condensed Bold/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-CondensedBlack.otf
+Requested font "Helvetica Neue Condensed Bold/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
+Requested font "Helvetica Neue Condensed Bold/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-BoldItalic.otf
+Requested font "Helvetica Neue Condensed Bold/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Condensed Bold/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
 Requested font "Helvetica Neue Light" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 10.0pt
+Requested font "Helvetica Neue Light/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-\g_fontspec_family_Helvetica Neue Light_int=\count126
-Requested font "Helvetica Neue Light/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue Light/B/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue Light/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue Light/I/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue Light/ICU" at 10.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/BI/ICU" at 10.0pt
+\g__fontspec_family_HelveticaNeueLight_int=\count123
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue Light/BI/ICU" at 10.0pt
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/B/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/I/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/HelveticaNeueLight(1)/m/n on input 
+line 58.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/HelveticaNeueLight(1)/m/it on inpu
+t line 58.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/HelveticaNeueLight(1)/bx/n on inpu
+t line 58.
+Requested font "Helvetica Neue Light/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty" ("C:
 \Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
@@ -583,14 +561,14 @@ sts.tex"))
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
 "
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
 "
 \pgfkeys@pathtoks=\toks18
@@ -610,10 +588,10 @@ ode.tex"
 \pgf@yc=\dimen148
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count127
-\c@pgf@countb=\count128
-\c@pgf@countc=\count129
-\c@pgf@countd=\count130
+\c@pgf@counta=\count124
+\c@pgf@countb=\count125
+\c@pgf@countc=\count126
+\c@pgf@countd=\count127
 \t@pgf@toka=\toks21
 \t@pgf@tokb=\toks22
 \t@pgf@tokc=\toks23
@@ -625,23 +603,23 @@ Driver file for pgf: pgfsys-xetex.def
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-xetex.de
 f"
-File: pgfsys-xetex.def 2013/07/16  (rcs-revision 1.9)
+File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx
 .def"
-File: pgfsys-dvipdfmx.def 2013/08/28  (rcs-revision 1.12)
+File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
 df.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
-\pgfsys@objnum=\count131
+\pgfsys@objnum=\count128
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
 code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count132
-\pgfsyssoftpath@bigbuffer@items=\count133
+\pgfsyssoftpath@smallbuffer@items=\count129
+\pgfsyssoftpath@bigbuffer@items=\count130
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.
 code.tex"
@@ -649,14 +627,14 @@ File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
 "
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
 "
 \pgfmath@dimen=\dimen149
-\pgfmath@count=\count134
+\pgfmath@count=\count131
 \pgfmath@box=\box42
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
@@ -681,7 +659,7 @@ code.tex")
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integ
 erarithmetics.code.tex")))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count135
+\c@pgfmathroundto@lastzeros=\count132
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
 de.tex"
@@ -709,26 +687,26 @@ File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
 .code.tex"
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen166
 \pgf@shorten@start@additional=\dimen167
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
 de.tex"
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box43
 \pgf@hbox=\box44
 \pgf@layerbox@main=\box45
-\pgf@picture@serial@count=\count136
+\pgf@picture@serial@count=\count133
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
 ate.code.tex"
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen168
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
 ations.code.tex"
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen169
 \pgf@pt@y=\dimen170
 \pgf@pt@temp=\dimen171
@@ -747,14 +725,14 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
 de.tex"
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen172
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
 e.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen173
-\pgf@sys@shading@range@num=\count137
+\pgf@sys@shading@range@num=\count134
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
 e.tex"
@@ -762,7 +740,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
 code.tex"
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box46
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
@@ -779,22 +757,22 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.cod
 e.tex"
-File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box47
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.
 tex"
-File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
 -0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen174
 \pgf@nodesepend=\dimen175
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
 -1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
@@ -802,7 +780,7 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
 \pgffor@iter=\dimen176
@@ -812,12 +790,12 @@ Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.cod
 e.tex"
-Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothan
 dlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
-\pgf@plot@mark@count=\count138
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count135
 \pgfplotmarksize=\dimen178
 )
 \tikz@lastx=\dimen179
@@ -830,28 +808,28 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
 \tikz@figbox@bg=\box49
 \tikz@tempbox=\box50
 \tikz@tempbox@bg=\box51
-\tikztreelevel=\count139
-\tikznumberofchildren=\count140
-\tikznumberofcurrentchild=\count141
-\tikz@fig@count=\count142
+\tikztreelevel=\count136
+\tikznumberofchildren=\count137
+\tikznumberofcurrentchild=\count138
+\tikz@fig@count=\count139
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.cod
 e.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count143
-\pgfmatrixcurrentcolumn=\count144
-\pgf@matrix@numberofcolumns=\count145
+\pgfmatrixcurrentrow=\count140
+\pgfmatrixcurrentcolumn=\count141
+\pgf@matrix@numberofcolumns=\count142
 )
-\tikz@expandcount=\count146
+\tikz@expandcount=\count143
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
 s\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-\c@colorCounter=\count147
+\c@colorCounter=\count144
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\textpos\textpos.sty"
 Package: textpos 2014/01/03 v1.7j
@@ -871,79 +849,86 @@ Grid set 16 x 16 = 38.39343pt x 49.68562pt
 \TP@prevdepth=\dimen192
 TextBlockOrigin set to 0pt x 0pt
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
 
 
 Package biblatex Warning: No "backend" specified, using Biber backend.
 (biblatex)                To use BibTeX, load biblatex with 
 (biblatex)                the "backend=bibtex" option.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex2.sty"
-Package: biblatex2 2014/06/25 v2.9a programmable bibliographies (biber) (PK/JW/
-AB)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex_.sty"
+Package: biblatex_ 2016/03/03 v3.3 programmable bibliographies (biber) (PK/JW/A
+B)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count148
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count145
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-))
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count149
+\lrq@indent=\count146
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count150
-\c@listtotal=\count151
-\c@listcount=\count152
-\c@liststart=\count153
-\c@liststop=\count154
-\c@citecount=\count155
-\c@citetotal=\count156
-\c@multicitecount=\count157
-\c@multicitetotal=\count158
-\c@instcount=\count159
-\c@maxnames=\count160
-\c@minnames=\count161
-\c@maxitems=\count162
-\c@minitems=\count163
-\c@citecounter=\count164
-\c@savedcitecounter=\count165
-\c@uniquelist=\count166
-\c@uniquename=\count167
-\c@refsection=\count168
-\c@refsegment=\count169
-\c@maxextratitle=\count170
-\c@maxextratitleyear=\count171
-\c@maxextrayear=\count172
-\c@maxextraalpha=\count173
-\c@abbrvpenalty=\count174
-\c@highnamepenalty=\count175
-\c@lownamepenalty=\count176
-\c@maxparens=\count177
-\c@parenlevel=\count178
-\blx@tempcnta=\count179
-\blx@tempcntb=\count180
-\blx@tempcntc=\count181
-\blx@maxsection=\count182
-\blx@maxsegment@0=\count183
-\blx@notetype=\count184
-\blx@parenlevel@text=\count185
-\blx@parenlevel@foot=\count186
-\blx@sectionciteorder@0=\count187
+\c@tabx@nest=\count147
+\c@listtotal=\count148
+\c@listcount=\count149
+\c@liststart=\count150
+\c@liststop=\count151
+\c@citecount=\count152
+\c@citetotal=\count153
+\c@multicitecount=\count154
+\c@multicitetotal=\count155
+\c@instcount=\count156
+\c@maxnames=\count157
+\c@minnames=\count158
+\c@maxitems=\count159
+\c@minitems=\count160
+\c@citecounter=\count161
+\c@savedcitecounter=\count162
+\c@uniquelist=\count163
+\c@uniquename=\count164
+\c@refsection=\count165
+\c@refsegment=\count166
+\c@maxextratitle=\count167
+\c@maxextratitleyear=\count168
+\c@maxextrayear=\count169
+\c@maxextraalpha=\count170
+\c@abbrvpenalty=\count171
+\c@highnamepenalty=\count172
+\c@lownamepenalty=\count173
+\c@maxparens=\count174
+\c@parenlevel=\count175
+\blx@tempcnta=\count176
+\blx@tempcntb=\count177
+\blx@tempcntc=\count178
+\blx@maxsection=\count179
+\blx@maxsegment@0=\count180
+\blx@notetype=\count181
+\blx@parenlevel@text=\count182
+\blx@parenlevel@foot=\count183
+\blx@sectionciteorder@0=\count184
 \labelnumberwidth=\skip49
 \labelalphawidth=\skip50
 \biblabelsep=\skip51
@@ -954,9 +939,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip56
 \blx@bcfin=\read3
 \blx@bcfout=\write4
-\c@mincomprange=\count188
-\c@maxcomprange=\count189
-\c@mincompwidth=\count190
+\c@mincomprange=\count185
+\c@maxcomprange=\count186
+\c@mincompwidth=\count187
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -965,73 +950,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count191
-\c@savedafterword=\count192
-\c@annotator=\count193
-\c@savedannotator=\count194
-\c@author=\count195
-\c@savedauthor=\count196
-\c@bookauthor=\count197
-\c@savedbookauthor=\count198
-\c@commentator=\count199
-\c@savedcommentator=\count200
-\c@editor=\count201
-Normal \count register pool exhausted, switching to extended pool.
-\c@savededitor=\count277
-\c@editora=\count278
-\c@savededitora=\count279
-\c@editorb=\count280
-\c@savededitorb=\count281
-\c@editorc=\count282
-\c@savededitorc=\count283
-\c@foreword=\count284
-\c@savedforeword=\count285
-\c@holder=\count286
-\c@savedholder=\count287
-\c@introduction=\count288
-\c@savedintroduction=\count289
-\c@namea=\count290
-\c@savednamea=\count291
-\c@nameb=\count292
-\c@savednameb=\count293
-\c@namec=\count294
-\c@savednamec=\count295
-\c@translator=\count296
-\c@savedtranslator=\count297
-\c@shortauthor=\count298
-\c@savedshortauthor=\count299
-\c@shorteditor=\count300
-\c@savedshorteditor=\count301
-\c@labelname=\count302
-\c@savedlabelname=\count303
-\c@institution=\count304
-\c@savedinstitution=\count305
-\c@lista=\count306
-\c@savedlista=\count307
-\c@listb=\count308
-\c@savedlistb=\count309
-\c@listc=\count310
-\c@savedlistc=\count311
-\c@listd=\count312
-\c@savedlistd=\count313
-\c@liste=\count314
-\c@savedliste=\count315
-\c@listf=\count316
-\c@savedlistf=\count317
-\c@location=\count318
-\c@savedlocation=\count319
-\c@organization=\count320
-\c@savedorganization=\count321
-\c@origlocation=\count322
-\c@savedoriglocation=\count323
-\c@origpublisher=\count324
-\c@savedorigpublisher=\count325
-\c@publisher=\count326
-\c@savedpublisher=\count327
-\c@language=\count328
-\c@savedlanguage=\count329
-\c@pageref=\count330
-\c@savedpageref=\count331
+\c@afterword=\count188
+\c@savedafterword=\count189
+\c@annotator=\count190
+\c@savedannotator=\count191
+\c@author=\count192
+\c@savedauthor=\count193
+\c@bookauthor=\count194
+\c@savedbookauthor=\count195
+\c@commentator=\count196
+\c@savedcommentator=\count197
+\c@editor=\count198
+\c@savededitor=\count199
+\c@editora=\count266
+\c@savededitora=\count267
+\c@editorb=\count268
+\c@savededitorb=\count269
+\c@editorc=\count270
+\c@savededitorc=\count271
+\c@foreword=\count272
+\c@savedforeword=\count273
+\c@holder=\count274
+\c@savedholder=\count275
+\c@introduction=\count276
+\c@savedintroduction=\count277
+\c@namea=\count278
+\c@savednamea=\count279
+\c@nameb=\count280
+\c@savednameb=\count281
+\c@namec=\count282
+\c@savednamec=\count283
+\c@translator=\count284
+\c@savedtranslator=\count285
+\c@shortauthor=\count286
+\c@savedshortauthor=\count287
+\c@shorteditor=\count288
+\c@savedshorteditor=\count289
+\c@labelname=\count290
+\c@savedlabelname=\count291
+\c@institution=\count292
+\c@savedinstitution=\count293
+\c@lista=\count294
+\c@savedlista=\count295
+\c@listb=\count296
+\c@savedlistb=\count297
+\c@listc=\count298
+\c@savedlistc=\count299
+\c@listd=\count300
+\c@savedlistd=\count301
+\c@liste=\count302
+\c@savedliste=\count303
+\c@listf=\count304
+\c@savedlistf=\count305
+\c@location=\count306
+\c@savedlocation=\count307
+\c@organization=\count308
+\c@savedorganization=\count309
+\c@origlocation=\count310
+\c@savedoriglocation=\count311
+\c@origpublisher=\count312
+\c@savedorigpublisher=\count313
+\c@publisher=\count314
+\c@savedpublisher=\count315
+\c@language=\count316
+\c@savedlanguage=\count317
+\c@pageref=\count318
+\c@savedpageref=\count319
 \shorthandwidth=\skip57
 \shortjournalwidth=\skip58
 \shortserieswidth=\skip59
@@ -1042,44 +1026,44 @@ Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
+File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
+Package biblatex Info: ... file 'biblatex_.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
-File: biblatex.def 
-\c@textcitecount=\count332
-\c@textcitetotal=\count333
-\c@textcitemaxnames=\count334
-\c@biburlnumpenalty=\count335
-\c@biburlucpenalty=\count336
-\c@biburllcpenalty=\count337
-\c@smartand=\count338
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex_.def"
+File: biblatex_.def 
+\c@textcitecount=\count320
+\c@textcitetotal=\count321
+\c@textcitemaxnames=\count322
+\c@biburlnumpenalty=\count323
+\c@biburlucpenalty=\count324
+\c@biburllcpenalty=\count325
+\c@smartand=\count326
 )
 Package biblatex Info: Trying to load bibliography style 'verbose'...
 Package biblatex Info: ... file 'verbose.bbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\verbose.bbx"
-File: verbose.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+File: verbose.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\authortitle.bbx"
-File: authortitle.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
+File: authortitle.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count339
-\c@bbx:relatedtotal=\count340
+File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count327
+\c@bbx:relatedtotal=\count328
 )))
 Package biblatex Info: Trying to load citation style 'verbose'...
 Package biblatex Info: ... file 'verbose.cbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\verbose.cbx"
-File: verbose.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
+File: verbose.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1105,9 +1089,9 @@ Package ifpdf Info: pdfTeX in PDF mode is not detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count341
-\Gm@cntv=\count342
-\c@Gm@tempcnt=\count343
+\Gm@cnth=\count329
+\Gm@cntv=\count330
+\c@Gm@tempcnt=\count331
 \Gm@bindingoffset=\dimen193
 \Gm@wd@mp=\dimen194
 \Gm@odd@mp=\dimen195
@@ -1115,7 +1099,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutwidth=\dimen197
 \Gm@layoutheight=\dimen198
 \Gm@layouthoffset=\dimen199
-\Gm@layoutvoffset=\dimen200
+\Gm@layoutvoffset=\dimen256
 \Gm@dimlist=\toks30
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg")))
@@ -1163,14 +1147,14 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen201
-\Hy@linkcounter=\count344
-\Hy@pagecounter=\count345
+\@linkdim=\dimen257
+\Hy@linkcounter=\count332
+\Hy@pagecounter=\count333
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count346
+\Hy@SavedSpaceFactor=\count334
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1182,14 +1166,13 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count347
+\c@Hy@tempcnt=\count335
 LaTeX Info: Redefining \url on input line 5041.
-Normal \dimen register pool exhausted, switching to extended pool.
-\XeTeXLinkMargin=\dimen256
+\XeTeXLinkMargin=\dimen258
 Requested font "pzdr" at 0.00002pt
-\Fld@menulength=\count348
-\Field@Width=\dimen257
-\Fld@charsize=\dimen258
+\Fld@menulength=\count336
+\Field@Width=\dimen259
+\Fld@charsize=\dimen260
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1199,9 +1182,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count349
-\c@Item=\count350
-\c@Hfootnote=\count351
+\Hy@abspage=\count337
+\c@Item=\count338
+\c@Hfootnote=\count339
 )
 
 Package hyperref Message: Driver (autodetected): hxetex.
@@ -1217,10 +1200,10 @@ Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box54
-\c@Hy@AnnotLevel=\count352
-\HyField@AnnotCount=\count353
-\Fld@listcount=\count354
-\c@bookmark@seq@number=\count355
+\c@Hy@AnnotLevel=\count340
+\HyField@AnnotCount=\count341
+\Fld@listcount=\count342
+\c@bookmark@seq@number=\count343
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -1237,95 +1220,100 @@ Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
-File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
+File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count356
-\@quotereset=\count357
+\@quotelevel=\count344
+\@quotereset=\count345
 
-(C:\Users\Carlos\Develop\my-cv\cv_10.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 26.
+(cv_10.aux)
+\openout1 = `cv_10.aux'.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 31.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-Requested font "[latinmodern-math.otf]/ICU" at 10.0pt
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+Requested font "[latinmodern-math.otf]/OT" at 10.0pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
-\g_fontspec_family_latinmodern-math.otf_int=\count358
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;" at 10.0pt
+\g__fontspec_family_latinmodern-math.otf_int=\count346
+Requested font "[latinmodern-math]/OT" at 10.0pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;" at 10.0p
-t
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;" at 10.0pt
+ -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
+-math.otf
+Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;" at 10.0pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 26.
+(Font)              `operators' in the math version `normal' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 26.
+t line 31.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 26.
+(Font)              `operators' in the math version `bold' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 26.
+put line 31.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 26.
+(Font)              `symbols' in the math version `normal' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 26.
+ut line 31.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 26.
+(Font)              `symbols' in the math version `bold' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 26.
+put line 31.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 2
-6.
+(Font)              `largesymbols' in the math version `normal' on input line 3
+1.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 26.
+ut line 31.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 26.
+(Font)              `largesymbols' in the math version `bold' on input line 31.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 26.
+put line 31.
 
 ABD: EveryShipout initializing macros
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv_10.bbl' not found.
+\openout4 = `cv_10.bcf'.
 
-No file cv_10.bbl.
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'cv_10.bbl' found.
+ (cv_10.bbl)
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
@@ -1334,11 +1322,11 @@ Package biblatex Info: Reference segment=0 on input line 26.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(173.56198pt, 398.0539pt, 42.67912pt)
-* v-part:(T,H,B)=(56.9055pt, 666.9326pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 709.61174pt, 28.45274pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=398.0539pt
-* \textheight=666.9326pt
+* \textheight=709.61174pt
 * \oddsidemargin=101.29199pt
 * \evensidemargin=101.29199pt
 * \topmargin=-15.36449pt
@@ -1360,157 +1348,137 @@ Package biblatex Info: Reference segment=0 on input line 26.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 31.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count359
+\c@section@level=\count347
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
 
-(C:\Users\Carlos\Develop\my-cv\cv_10.out)
-(C:\Users\Carlos\Develop\my-cv\cv_10.out)
+(cv_10.out) (cv_10.out)
 \@outlinefile=\write5
-Requested font "Helvetica Neue UltraLight/ICU:script=latn;language=DFLT;" at 40
-.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue/ICU:script=latn;language=DFLT;" at 40.0pt
+\openout5 = `cv_10.out'.
+
+Requested font "Helvetica Neue/OT:script=latn;language=DFLT;" at 40.0pt
  -> C:/Windows/Fonts/HelveticaNeue.otf
-Requested font "Helvetica Neue UltraLight/ICU:script=latn;language=DFLT;" at 14
-.0pt
- -> C:/Windows/Fonts/HelveticaNeue-UltraLight.otf
-Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;color=4D4D4DFF ;" at 14.4pt
+Requested font "Helvetica Neue/OT:script=latn;language=DFLT;" at 14.0pt
+ -> C:/Windows/Fonts/HelveticaNeue.otf
+Requested font "Helvetica Neue Light/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 14.4pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Condensed Bold/ICU:script=latn;language=DFLT;" a
-t 14.4pt
+Requested font "Helvetica Neue Condensed Bold/OT:script=latn;language=DFLT;" at
+ 14.4pt
  -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 6.99997pt
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=0;" at 7.01236pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 5.0pt
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=1;" at 4.98074pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
-Requested font "cmmi6" at 6.99997pt
+Requested font "cmmi7" at 7.01236pt
+Requested font "cmmi5" at 4.98074pt
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;" at 10.00015pt
- -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
--math.otf
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 7.00006pt
+(Font)              scaled to size 10.00015pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;" at 10.00015pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 5.00008pt
+(Font)              scaled to size 7.01247pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=0;" at 7.01247pt
+ -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
+-math.otf
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 4.9808pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=1;" at 4.9808pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;" at 9.99985pt
+(Font)              scaled to size 9.99985pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;" at 9.99985pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 6.99986pt
+(Font)              scaled to size 7.01224pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=0;" at 7.01224pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 47.
-Requested font "[latinmodern-math.otf]/ICU:script=math;language=DFLT;mapping=te
-x-text;+ssty=1;" at 4.99992pt
+(Font)              scaled to size 4.98067pt on input line 52.
+Requested font "[latinmodern-math]/OT:script=math;language=DFLT;mapping=tex-tex
+t;+ssty=1;" at 4.98067pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
-Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;color=4D4D4DFF ;" at 17.28pt
+Requested font "Helvetica Neue Light/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 17.28pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Condensed Bold/ICU:script=latn;language=DFLT;" a
-t 17.28pt
+Requested font "Helvetica Neue Condensed Bold/OT:script=latn;language=DFLT;" at
+ 17.28pt
  -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Condensed Bold/ICU:script=latn;language=DFLT;" a
-t 10.0pt
+Requested font "Helvetica Neue Condensed Bold/OT:script=latn;language=DFLT;" at
+ 10.0pt
  -> C:/Windows/Fonts/HelveticaNeue-CondensedBold.otf
-Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;color=4D4D4DFF ;" at 8.0pt
+Requested font "Helvetica Neue Light/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 Requested font "Helvetica Neue Light" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
+Requested font "Helvetica Neue Light/OT" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/B/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue Light/B/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/I/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue Light/I/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/BI/ICU" at 8.0pt
+Requested font "Helvetica Neue Light/BI/OT" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue Light/BI/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
-Requested font "Helvetica Neue Light/ICU:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;color=999999FF ;" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-Requested font "Helvetica Neue Light/I/ICU:script=latn;language=DFLT;mapping=te
-x-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
+Requested font "Helvetica Neue Light/B/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
+Requested font "Helvetica Neue Light/B/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/B/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Bold.otf
+Requested font "Helvetica Neue Light/I/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/I/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue Light/BI/OT" at 8.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-Italic.otf
+Requested font "Helvetica Neue Light/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;mapping=tex-text;color=999999FF ;" at 8.0pt
  -> C:/Windows/Fonts/HelveticaNeue-Light.otf
+Requested font "Helvetica Neue Light/I/OT:script=latn;language=DFLT;mapping=tex
+-text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
+ -> C:/Windows/Fonts/HelveticaNeue-LightItalic.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--76
+Underfull \hbox (badness 10000) in paragraph at lines 63--81
 
  []
 
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 4927) in paragraph at lines 97--97
-[]\EU1/HelveticaNeueLight(0)/m/n/10 Corrective Management (Cordova Phonegap + H
-TML + CSS +
- []
-
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
-
-Underfull \hbox (badness 1389) in paragraph at lines 112--112
+Underfull \hbox (badness 1389) in paragraph at lines 141--141
 \EU1/HelveticaNeueLight(0)/m/n/10 Developed Native Android Applications for mai
 n phone carriers (Orange,
  []
 
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--131
+Underfull \hbox (badness 10000) in paragraph at lines 88--147
 
  []
 
-Requested font "Helvetica Neue Light/ICU" at 8.0pt
- -> C:/Windows/Fonts/HelveticaNeue-Light.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--148
+Underfull \hbox (badness 10000) in paragraph at lines 155--164
 
  []
 
@@ -1520,21 +1488,23 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 [1
 
-] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
- (C:\Users\Carlos\Develop\my-cv\cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 161.
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 172.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 172.
+ (cv_10.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 172.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 172.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
+\openout1 = `cv_10.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 40220 strings out of 429025
- 748245 string characters out of 3166798
- 1169956 words of memory out of 3000000
- 43049 multiletter control sequences out of 15000+200000
- 5358 words of font info for 63 fonts, out of 3000000 for 9000
- 912 hyphenation exceptions out of 8191
- 73i,9n,61p,10425b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40945 strings out of 428721
+ 769622 string characters out of 3163014
+ 1182265 words of memory out of 3000000
+ 43888 multiletter control sequences out of 15000+200000
+ 5749 words of font info for 61 fonts, out of 3000000 for 9000
+ 1096 hyphenation exceptions out of 8191
+ 73i,9n,70p,10454b,668s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cv_10.pdf (2 pages).
+Output written on cv_10.pdf (1 page).

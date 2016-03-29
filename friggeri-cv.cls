@@ -51,7 +51,7 @@
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 
 \newfontfamily\bodyfont[]{Helvetica Neue}
-\newfontfamily\thinfont[]{Helvetica Neue UltraLight}
+\newfontfamily\thinfont[]{Helvetica Neue}
 \newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
 
 \defaultfontfeatures{Mapping=tex-text}
@@ -279,13 +279,13 @@
   \par\vspace{0.3\baselineskip}
 }
 
-\DeclareNameFormat{author}{%
-  \small\addfontfeature{Color=lightgray}%
-  \ifblank{#3}{}{#3\space}#1%
-  \ifthenelse{\value{listcount}<\value{liststop}}
-    {\addcomma\space}
-    {}%
-}
+%\DeclareNameFormat{author}{%
+  %\small\addfontfeature{Color=lightgray}%
+  %\ifblank{#3}{}{#3\space}#1%
+  %\ifthenelse{\value{listcount}<\value{liststop}}
+    %{\addcomma\space}
+    %{}%
+%}
 
 \newcommand{\printbibsection}[2]{
   \begin{refsection}
@@ -305,5 +305,5 @@
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
+\RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=1cm,nohead,nofoot]{geometry}
 \RequirePackage{hyperref}
